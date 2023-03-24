@@ -6,7 +6,7 @@ A place to collaborate and share course notes on all topics related to ML, NLP, 
 
 :new: denotes recently published notes
 
-### MLG381 & 382 Introduction to Machine Learning (2022) [[Website](http://introtomachinelearning.com/)]
+### MLG381 & 382 Introduction to Machine Learning (2023) [[Website](http://introtomachinelearning.com/)]
 Lectures by: Eddie Cheteni
 
 <table class="tg">
