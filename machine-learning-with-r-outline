@@ -1,0 +1,28 @@
+# Here's the outline for practical machine learning with R, with a focus on using tidymodels and creating a simple shiny app:
+
+**Week 1:** Introduction to Machine Learning with R
+
+1. What is machine learning and why is it important?
+2. Overview of the machine learning process
+3. Installing R and RStudio
+4. Introduction to the tidyverse and tidymodels packages
+5. Setting up a GitHub account and creating a repository for your project
+
+**Week 2:** Data Preparation and Model Building with tidymodels
+
+1. Data wrangling with dplyr and tidyr
+2. Exploratory data analysis with ggplot2
+3. Feature engineering and selection
+4. Model training and evaluation with tidymodels
+5. Cross-validation and hyperparameter tuning
+6. Exporting and saving trained models
+
+**Week 3:** Deploying Your Model with a Shiny App
+
+1. Introduction to Shiny and Shinyapps.io
+2. Creating a simple Shiny app to deploy your model
+3. Adding interactivity with Shiny widgets and reactive expressions
+4. Deploying your app on netlify or Shinyapps.io
+5. Best practices for sharing your code and results on GitHub
+
+Good luck with your lectures and project!
